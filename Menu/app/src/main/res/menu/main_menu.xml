@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/blog"
+            android:title="Blog" />
+    </group>
+
+
+    <item
+        android:id="@+id/apply"
+        android:title="Apply For Job">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/daycare"
+                    android:title="Day Care" />
+                <item
+                    android:id="@+id/caregiver"
+                    android:title="Care Giver" />
+
+            </group>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/moms"
+        android:title="Experienced Mom">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/toysinfo"
+                    android:title="Toys Info" />
+                <item
+                    android:id="@+id/shareexperience"
+                    android:title="Share Experience" />
+                <item
+                    android:id="@+id/givereviewsaboutdoctor"
+                    android:title="Give Reviews About Doctor" />
+            </group>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/newmom"
+        android:title="New Moms">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/childdevelopment"
+                    android:title="Child Development" />
+                <item
+                    android:id="@+id/health"
+                    android:title="Health" />
+                <item
+                    android:id="@+id/childcare"
+                    android:title="Child Care" />
+                <item
+                    android:id="@+id/foodandnutrition"
+                    android:title="Food And Nutrition" />
+            </group>
+        </menu>
+    </item>
+    <item android:id="@+id/logout"
+        android:title="Logout"/>
+
+</menu>

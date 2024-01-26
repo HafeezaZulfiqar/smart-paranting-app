@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SmartParenting3</string>
+    <string name="welcome_to_smart_parenting">Welcome To Smart Parenting</string>
+    <string name="a_community_centered_personalized_pregnancy_and_baby_milestone_tracker_for_you_and_your_partner">A community-centered,personalized pregnancy and baby milestone tracker for you and your partner</string>
+    <string name="a_safe_space_to_communicate_and_connect_with_fellow_parents">A safe space to communicate and connect with fellow parents</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign in</string>
+    <string name="useremail">UserEmail</string>
+    <string name="userpassword">UserPassword</string>
+    <string name="login">Login</string>
+    <string name="haven_t_registered_yet">Haven\'t registered yet?</string>
+    <string name="signup">Signup</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="username">UserName</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phonenumber">PhoneNumber</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="click_here">Click Here</string>
+    <string name="registerforaccount">RegisterForAccount</string>
+</resources>
